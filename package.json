@@ -1,0 +1,24 @@
+{
+  "name": "advent_of_code",
+  "version": "1.0.0",
+  "description": "Advent of Code",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node ./$YEAR/$DAY.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grimnomad/advent_of_code.git"
+  },
+  "keywords": ["Advent of Code", "TypeScript"],
+  "author": "Nikolai Paltschikowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grimnomad/advent_of_code/issues"
+  },
+  "homepage": "https://github.com/grimnomad/advent_of_code#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
